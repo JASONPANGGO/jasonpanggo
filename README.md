@@ -3,7 +3,9 @@
 I'm currently working on a web editor making H5 pages.
 📖 Node.js Vue.js Electron Phaser
 
+<p align="right">
 ![](https://github-readme-stats.vercel.app/api?username=jasonpanggo)
+</p>
 
 <!--START_SECTION:waka-->
 ```text
