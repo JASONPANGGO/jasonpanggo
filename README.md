@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-I'm currently working on a web editor making H5 pages.
+I'm currently working on a web editor making H5 pages using Vue.js and Phaser.
 </p>
 <p>
 📖 Node.js Vue.js Electron Phaser
