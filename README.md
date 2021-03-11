@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p>
+<p align="left">
 I'm currently working on a web editor making H5 pages using Vue.js and Phaser.
 </p>
-<p>
+<p align="left">
 📖 Node.js Vue.js Electron Phaser
 </p>
 
