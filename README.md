@@ -17,7 +17,7 @@ I'm currently working on a web editor making H5 pages using Vue.js and Phaser.
 Development the last week:
 <!--START_SECTION:waka-->
 ```text
-Other        10 mins         ████████████████████████▒   97.78 % 
+Other        10 mins         ████████████████████████░   95.39 % 
 ```
 <!--END_SECTION:waka-->
 
