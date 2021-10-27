@@ -17,11 +17,11 @@ I'm currently working on a web editor making H5 pages using Vue.js and Phaser.
 Development the last week:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 59 mins  ███████████████████▒░░░░░   77.54 % 
-JSX          1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-SCSS         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Vue.js       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript   15 hrs 33 mins  ████████████████████▒░░░░   80.79 % 
+JSX          1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JavaScript   54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+SCSS         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
 
