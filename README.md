@@ -18,11 +18,12 @@ Development the last week:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 55 mins   █████████████████░░░░░░░░   67.71 %
-SCSS         1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-Rust         56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   9 hrs 28 mins   ██████████████████▓░░░░░░   75.15 %
+SCSS         1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Rust         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
