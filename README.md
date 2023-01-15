@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasonpanggo"/>
-
 Development the last week:
 <!--START_SECTION:waka-->
 
