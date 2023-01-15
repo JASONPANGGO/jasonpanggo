@@ -2,18 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jasonpanggo"/>
 
-<br>
-<p align="left">
-I'm currently working on a web editor making H5 pages using Vue.js and Phaser.
-</p>
-<p align="left">
-📖 Node.js Vue.js Electron Phaser
-</p>
-<br>
-<br>
-<br>
-<br>
-
 Development the last week:
 <!--START_SECTION:waka-->
 
