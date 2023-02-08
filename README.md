@@ -4,9 +4,10 @@ Development the last week:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 22 mins  ███████████████▒░░░░░░░░░   61.86 %
-JavaScript   3 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-Other        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+TypeScript   14 hrs 56 mins  ████████████████▒░░░░░░░░   65.23 %
+JavaScript   3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+JSON         1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Other        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
