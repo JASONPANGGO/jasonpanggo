@@ -4,7 +4,11 @@ Development the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript    1 hr 25 mins    ██████████████▓░░░░░░░░░░   59.32 %
+C++           22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+JSON          17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Objective-C   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Makefile      8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
