@@ -4,7 +4,9 @@ Development the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         39 mins         ███████████████░░░░░░░░░░   59.53 %
+JSON         23 mins         █████████░░░░░░░░░░░░░░░░   35.74 %
+TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
