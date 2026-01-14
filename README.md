@@ -4,7 +4,8 @@ Development the last week:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr            █████████████████████████   100.00 %
+TypeScript   1 hr            ██████████████████████▓░░   91.22 %
+JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
 ```
 
 <!--END_SECTION:waka-->
